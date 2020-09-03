@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![blog](https://img.shields.io/static/v1?label=blog&message=BcsStudent&color=00C7B7&logo=netlify&link=https://bscstudent.netlify.app/&link=https://github.com/baruchiro/BcsStudent) My blog, mainly about programming, in Hebrew.
+[BcsStudent](https://bscstudent.netlify.app/)- My blog, mainly about programming, in Hebrew. ![blog](https://img.shields.io/static/v1?label=gridsome&message=BcsStudent&color=4FC08D&logo=vue.js&link=https://bscstudent.netlify.app/&link=https://github.com/baruchiro/BcsStudent) 
 
 ## 🔭 Currently working on
 ![brafdlog/budget-tracking](https://img.shields.io/static/v1?label=app&message=brafdlog/budget-tracking&color=41B883&logo=vue.js&link=https://github.com/brafdlog/budget-tracking) Automated budget tracking from Israeli financial institutions.
