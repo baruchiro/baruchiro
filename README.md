@@ -11,6 +11,8 @@
 ![pursuit-rotor-task](https://img.shields.io/static/v1?label=web%20component&message=pursuit-rotor-task&color=CB3837&logo=npm&link=https://www.npmjs.com/package/pursuit-rotor-task&link=https://github.com/baruchiro/pursuit-rotor-task) Web Component for Pursuit Rotor Task to embed in web application.
 
 ![use-route-as-state](https://img.shields.io/static/v1?label=package&message=use-route-as-state&color=61DAFB&logo=react&link=https://www.npmjs.com/package/use-route-as-state&link=https://github.com/baruchiro/use-route-as-state) Use React Router route and query string as component state.
+
+![dll-props](https://img.shields.io/static/v1?label=package&message=dll-props&color=004880&logo=nuget&link=https://www.nuget.org/packages/DllProps.Tool&link=https://github.com/baruchiro/dll-props) dotnet tool to get the properties of dll file.
  <!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
