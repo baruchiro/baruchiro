@@ -4,9 +4,11 @@
 [![Netlify](https://img.shields.io/netlify/ba56d2ec-b5ce-4d2d-a606-90fbcd1dcf3c)](https://bscstudent.netlify.app/)  
 [**BcsStudent**](https://github.com/baruchiro/BcsStudent)- My blog, mainly about programming, in Hebrew.
 
+
 ## 🔭 Currently working on
 [![brafdlog/budget-tracking](https://img.shields.io/static/v1?label=Electron&message=brafdlog/budget-tracking&color=41B883&logo=vue.js&link=https://github.com/brafdlog/budget-tracking)](https://github.com/brafdlog/budget-tracking)  
 [brafdlog/budget-tracking](https://github.com/brafdlog/budget-tracking) Automated budget tracking from Israeli financial institutions.
+
 
 ## 🏭 Published
 [![israeli-bank-scrapers-desktop](https://img.shields.io/static/v1?label=Electron&message=israeli-bank-scrapers-desktop&color=4FC08D&logo=vue.js&link=https://github.com/baruchiro/israeli-bank-scrapers-desktop/releases&link=https://github.com/baruchiro/israeli-bank-scrapers-desktop)](https://github.com/baruchiro/israeli-bank-scrapers-desktop)
@@ -33,6 +35,11 @@
 [![dll-props](https://img.shields.io/static/v1?label=package&message=dll-props&color=239120&logo=c-sharp&link=https://www.nuget.org/packages/DllProps.Tool&link=https://github.com/baruchiro/dll-props)](https://github.com/baruchiro/dll-props)
 [![Nuget](https://img.shields.io/nuget/dt/DllProps.Tool?logo=nuget)](https://www.nuget.org/packages/DllProps.Tool)  
 **dll-props**- `dotnet tool` to get the properties of dll file.
+
+
+## ⚡ Fun facts
+
+- [My first contribution](https://github.com/MicrosoftDocs/cpp-docs/pull/264#issuecomment-393606707) was the **space** char to *Microsoft Docs* 😂
  <!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
