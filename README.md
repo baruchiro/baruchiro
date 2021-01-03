@@ -20,7 +20,8 @@
 [![pursuit-rotor-task](https://img.shields.io/static/v1?label=web%20component&message=pursuit-rotor-task&color=E34F26&logo=html5&link=https://www.npmjs.com/package/pursuit-rotor-task&link=https://github.com/baruchiro/pursuit-rotor-task)](https://github.com/baruchiro/pursuit-rotor-task)
 [![npm](https://img.shields.io/npm/v/pursuit-rotor-task?logo=npm&label=version)](https://www.npmjs.com/package/pursuit-rotor-task)
 [![jsDelivr hits (npm)](https://img.shields.io/jsdelivr/npm/hm/pursuit-rotor-task)](https://www.jsdelivr.com/package/npm/pursuit-rotor-task)
-[![npm](https://img.shields.io/npm/dm/pursuit-rotor-task?label=npm)](https://www.npmjs.com/package/pursuit-rotor-task)  
+[![npm](https://img.shields.io/npm/dm/pursuit-rotor-task?label=npm)](https://www.npmjs.com/package/pursuit-rotor-task)
+[![twitter](https://img.shields.io/twitter/url?label=pursuit_rotor_task&style=social&url=https%3A%2F%2Ftwitter.com%2Fhashtag%2Fpursuit_rotor_task)](https://twitter.com/hashtag/pursuit_rotor_task)  
 **pursuit-rotor-task**- Web Component for Pursuit Rotor Task to embed in web application.
 
 [![use-route-as-state](https://img.shields.io/static/v1?label=package&message=use-route-as-state&color=61DAFB&logo=react&link=https://www.npmjs.com/package/use-route-as-state&link=https://github.com/baruchiro/use-route-as-state)](https://github.com/baruchiro/use-route-as-state)
