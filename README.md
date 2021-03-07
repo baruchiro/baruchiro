@@ -11,7 +11,7 @@
 
 
 ## 🏭 Published
-[![israeli-bank-scrapers-desktop](https://img.shields.io/static/v1?label=Electron&message=israeli-bank-scrapers-desktop&color=4FC08D&logo=vue.js&link=https://github.com/baruchiro/israeli-bank-scrapers-desktop/releases&link=https://github.com/baruchiro/israeli-bank-scrapers-desktop)](https://github.com/baruchiro/israeli-bank-scrapers-desktop)
+
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/baruchiro/israeli-bank-scrapers-desktop)](https://github.com/baruchiro/israeli-bank-scrapers-desktop/releases)
 [![GitHub All Releases](https://img.shields.io/github/downloads/baruchiro/israeli-bank-scrapers-desktop/total)](https://github.com/baruchiro/israeli-bank-scrapers-desktop/releases)  
 **israeli-bank-scrapers-desktop**- Secure desktop app for retriving your transactions from all israeli banks and credit cards.  
