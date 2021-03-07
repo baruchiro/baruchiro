@@ -12,11 +12,6 @@
 
 ## 🏭 Published
 
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/baruchiro/israeli-bank-scrapers-desktop)](https://github.com/baruchiro/israeli-bank-scrapers-desktop/releases)
-[![GitHub All Releases](https://img.shields.io/github/downloads/baruchiro/israeli-bank-scrapers-desktop/total)](https://github.com/baruchiro/israeli-bank-scrapers-desktop/releases)  
-**israeli-bank-scrapers-desktop**- Secure desktop app for retriving your transactions from all israeli banks and credit cards.  
-(Beta version of [brafdlog/budget-tracking](https://github.com/brafdlog/budget-tracking), production ready).
-
 [![pursuit-rotor-task](https://img.shields.io/static/v1?label=web%20component&message=pursuit-rotor-task&color=E34F26&logo=html5&link=https://www.npmjs.com/package/pursuit-rotor-task&link=https://github.com/baruchiro/pursuit-rotor-task)](https://github.com/baruchiro/pursuit-rotor-task)
 [![npm](https://img.shields.io/npm/v/pursuit-rotor-task?logo=npm&label=version)](https://www.npmjs.com/package/pursuit-rotor-task)
 [![jsDelivr hits (npm)](https://img.shields.io/jsdelivr/npm/hm/pursuit-rotor-task)](https://www.jsdelivr.com/package/npm/pursuit-rotor-task)
