@@ -6,6 +6,30 @@
 
 
 ## 🔭 Currently working on
+[![os-scar/overlay](https://img.shields.io/static/v1?label=BrowserExtension&message=os-scar/overlay&color=41B883&logo=vue.js&link=https://github.com/os-scar/overlay)](https://github.com/os-scar/overlay)
+[![Badge Commits]][Commit Rate]
+[![Badge Issues]][Issues]
+[![Badge License]][License]
+[![Badge Version]][Releases]
+[![Badge Mozilla]][Mozilla]
+[![Badge Chrome]][Chrome]
+[![Badge Discord]][Discord]  
+<h1 align="center">
+<sub>
+<img src="https://raw.githubusercontent.com/os-scar/overlay/2fbb6f670a25fa3af05f5c9e9097b2e6416bb88a/icons/icon_48.png" height="38" width="38">
+</sub>
+Overlay
+</h1>
+
+<p align="center">
+<a href="https://addons.mozilla.org/addon/overlay/"><img src="https://user-images.githubusercontent.com/585534/107280546-7b9b2a00-6a26-11eb-8f9f-f95932f4bfec.png" alt="Get Overlay for Firefox"></a>
+<a href="https://chrome.google.com/webstore/detail/overlay/fahpefingaaldhifdbnlipfjniabkiho"><img src="https://user-images.githubusercontent.com/585534/107280622-91a8ea80-6a26-11eb-8d07-77c548b28665.png" alt="Get Overlay for Chromium"></a>
+<!-- <a href="https://microsoftedge.microsoft.com/addons/detail/overlay/xxxxxxxxxxxxxxxxxx"><img src="https://user-images.githubusercontent.com/585534/107280673-a5ece780-6a26-11eb-9cc7-9fa9f9f81180.png" alt="Get Overlay for Microsoft Edge"></a>
+<a href="https://addons.opera.com/extensions/details/overlay/"><img src="https://user-images.githubusercontent.com/585534/107280692-ac7b5f00-6a26-11eb-85c7-088926504452.png" alt="Get Overlay for Opera"></a> -->
+</p>
+
+[os-scar/overlay](https://github.com/os-scar/overlay) Overlay is a browser extension helping developers evaluate open source packages before picking them.
+
 [![brafdlog/caspion](https://img.shields.io/static/v1?label=Electron&message=brafdlog/caspion&color=41B883&logo=vue.js&link=https://github.com/brafdlog/caspion)](https://github.com/brafdlog/caspion)  
 [brafdlog/caspion](https://github.com/brafdlog/caspion) Automated budget tracking from Israeli financial institutions.
 
@@ -45,3 +69,33 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--
+<p>
+    <a href="https://vaunt.dev">
+        <img src="https://api.vaunt.dev/v1/github/entities/baruchiro/contributions?format=svg" width="350" />
+    </a>
+</p>
+-->
+
+
+<!---------------------------------[ Links ]-------------------------------->
+
+[Commit Rate]: https://github.com/os-scar/overlay/commits/master
+[Issues]: https://github.com/os-scar/overlay/issues
+[Discussions]: https://github.com/os-scar/overlay/discussions
+[License]: https://github.com/os-scar/overlay/blob/master/LICENSE.txt
+[Releases]: https://github.com/os-scar/overlay/releases
+[Mozilla]: https://addons.mozilla.org/addon/overlay/
+[Chrome]: https://chrome.google.com/webstore/detail/overlay/fahpefingaaldhifdbnlipfjniabkiho
+[Discord]: https://discord.com/channels/1072162311369936946/1072163343059652628
+
+<!----------------------------------[ Badges ]--------------------------------->
+
+[Badge Commits]: https://img.shields.io/github/commit-activity/m/os-scar/overlay?label=Commits
+[Badge Mozilla]: https://img.shields.io/amo/users/overlay?label=Firefox
+[Badge License]: https://img.shields.io/badge/License-MIT-blue.svg
+[Badge Chrome]: https://img.shields.io/chrome-web-store/users/fahpefingaaldhifdbnlipfjniabkiho?label=Chrome
+[Badge Issues]: https://img.shields.io/github/issues/os-scar/overlay
+[Badge Version]: https://img.shields.io/github/v/release/os-scar/overlay
+[Badge Discord]: https://img.shields.io/discord/1072162311369936946
