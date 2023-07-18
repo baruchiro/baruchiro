@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I’m an Open Source advocate and contributor. I love to explore new technologies and collaborate with other developers on exciting projects.  
+I’m also a mentor at [Ma’akaf (מעקף)](https://discord.gg/Fq7WstPR), a community that helps people join the Open Source world.  
+Feel free to check out my work and [contact me](https://cal.com/baruchiro/30m). 😊
+
 [![blog](https://img.shields.io/static/v1?label=Gridsome&message=BcsStudent&color=4FC08D&logo=vue.js&link=https://bscstudent.netlify.app/&link=https://github.com/baruchiro/BcsStudent)](https://github.com/baruchiro/BcsStudent)
 [![Netlify](https://img.shields.io/netlify/ba56d2ec-b5ce-4d2d-a606-90fbcd1dcf3c)](https://bscstudent.netlify.app/)  
 [**BcsStudent**](https://github.com/baruchiro/BcsStudent)- My blog, mainly about programming, in Hebrew.
@@ -28,10 +32,16 @@ Overlay
 <a href="https://addons.opera.com/extensions/details/overlay/"><img src="https://user-images.githubusercontent.com/585534/107280692-ac7b5f00-6a26-11eb-85c7-088926504452.png" alt="Get Overlay for Opera"></a> -->
 </p>
 
-[os-scar/overlay](https://github.com/os-scar/overlay) Overlay is a browser extension helping developers evaluate open source packages before picking them.
+[os-scar/overlay](https://github.com/os-scar/overlay) Overlay is a browser extension helping developers evaluate open-source packages before picking them.
 
 [![brafdlog/caspion](https://img.shields.io/static/v1?label=Electron&message=brafdlog/caspion&color=41B883&logo=vue.js&link=https://github.com/brafdlog/caspion)](https://github.com/brafdlog/caspion)  
 [brafdlog/caspion](https://github.com/brafdlog/caspion) Automated budget tracking from Israeli financial institutions.
+
+[![Checkmarx/2ms](https://img.shields.io/static/v1?label=Go&message=Checkmarx/2ms&color=18aed6&logo=go&link=https://github.com/Checkmarx/2ms)](https://github.com/Checkmarx/2ms)
+[![Latest Release](https://img.shields.io/github/v/release/checkmarx/2ms)](https://github.com/checkmarx/2ms/releases)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![GitHub Discussions](https://img.shields.io/badge/chat-discussions-blue.svg?style=flat-square)](https://github.com/Checkmarx/2ms/discussions)  
+[Checkmarx/2ms](https://github.com/Checkmarx/2ms) Too many secrets (2MS) helps people protect their secrets on any file or on systems like CMS, chats and git.
 
 
 ## 🏭 Published
@@ -39,7 +49,7 @@ Overlay
 [![use-route-as-state](https://img.shields.io/static/v1?label=package&message=use-route-as-state&color=61DAFB&logo=react&link=https://www.npmjs.com/package/use-route-as-state&link=https://github.com/baruchiro/use-route-as-state)](https://github.com/baruchiro/use-route-as-state)
 [![npm](https://img.shields.io/npm/v/use-route-as-state?logo=npm&label=version)](https://www.npmjs.com/package/use-route-as-state)
 [![npm](https://img.shields.io/npm/dw/use-route-as-state?label=npm)](https://www.npmjs.com/package/use-route-as-state)  
-**use-route-as-state**- Use React Router route and query string as component state.
+**use-route-as-state**- Use React Router route and query string as a component state.
 
 [![pursuit-rotor-task](https://img.shields.io/static/v1?label=web%20component&message=pursuit-rotor-task&color=E34F26&logo=html5&link=https://www.npmjs.com/package/pursuit-rotor-task&link=https://github.com/baruchiro/pursuit-rotor-task)](https://github.com/baruchiro/pursuit-rotor-task)
 [![npm](https://img.shields.io/npm/v/pursuit-rotor-task?logo=npm&label=version)](https://www.npmjs.com/package/pursuit-rotor-task)
