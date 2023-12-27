@@ -46,11 +46,6 @@ Overlay
 
 ## 🏭 Published
 
-[![use-route-as-state](https://img.shields.io/static/v1?label=package&message=use-route-as-state&color=61DAFB&logo=react&link=https://www.npmjs.com/package/use-route-as-state&link=https://github.com/baruchiro/use-route-as-state)](https://github.com/baruchiro/use-route-as-state)
-[![npm](https://img.shields.io/npm/v/use-route-as-state?logo=npm&label=version)](https://www.npmjs.com/package/use-route-as-state)
-[![npm](https://img.shields.io/npm/dw/use-route-as-state?label=npm)](https://www.npmjs.com/package/use-route-as-state)  
-**use-route-as-state**- Use React Router route and query string as a component state.
-
 [![pursuit-rotor-task](https://img.shields.io/static/v1?label=web%20component&message=pursuit-rotor-task&color=E34F26&logo=html5&link=https://www.npmjs.com/package/pursuit-rotor-task&link=https://github.com/baruchiro/pursuit-rotor-task)](https://github.com/baruchiro/pursuit-rotor-task)
 [![npm](https://img.shields.io/npm/v/pursuit-rotor-task?logo=npm&label=version)](https://www.npmjs.com/package/pursuit-rotor-task)
 [![jsDelivr hits (npm)](https://img.shields.io/jsdelivr/npm/hm/pursuit-rotor-task)](https://www.jsdelivr.com/package/npm/pursuit-rotor-task)
