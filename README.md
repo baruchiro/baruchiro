@@ -8,8 +8,8 @@ Feel free to check out my work and [contact me](https://cal.com/baruchiro/30m). 
 [![Netlify](https://img.shields.io/netlify/ba56d2ec-b5ce-4d2d-a606-90fbcd1dcf3c)](https://bscstudent.netlify.app/)  
 [**BcsStudent**](https://github.com/baruchiro/BcsStudent)- My blog, mainly about programming, in Hebrew.
 
-
 ## 🔭 Currently working on
+
 [![os-scar/overlay](https://img.shields.io/static/v1?label=BrowserExtension&message=os-scar/overlay&color=41B883&logo=vue.js&link=https://github.com/os-scar/overlay)](https://github.com/os-scar/overlay)
 [![Badge Commits]][Commit Rate]
 [![Badge Issues]][Issues]
@@ -17,7 +17,8 @@ Feel free to check out my work and [contact me](https://cal.com/baruchiro/30m). 
 [![Badge Version]][Releases]
 [![Badge Mozilla]][Mozilla]
 [![Badge Chrome]][Chrome]
-[![Badge Discord]][Discord]  
+[![Badge Discord]][Discord]
+
 <h1 align="center">
 <sub>
 <img src="https://raw.githubusercontent.com/os-scar/overlay/2fbb6f670a25fa3af05f5c9e9097b2e6416bb88a/icons/icon_48.png" height="38" width="38">
@@ -34,15 +35,17 @@ Overlay
 
 [os-scar/overlay](https://github.com/os-scar/overlay) Overlay is a browser extension helping developers evaluate open-source packages before picking them.
 
-[![brafdlog/caspion](https://img.shields.io/static/v1?label=Electron&message=brafdlog/caspion&color=41B883&logo=vue.js&link=https://github.com/brafdlog/caspion)](https://github.com/brafdlog/caspion)  
+[![brafdlog/caspion](https://img.shields.io/static/v1?label=Electron&message=brafdlog/caspion&color=5ed3f3&logo=react&link=https://github.com/brafdlog/caspion)](https://github.com/brafdlog/caspion)  
 [brafdlog/caspion](https://github.com/brafdlog/caspion) Automated budget tracking from Israeli financial institutions.
+
+[![eshaham/israeli-bank-scrapers](https://img.shields.io/static/v1?label=TypeScript&message=eshaham/israeli-bank-scrapers&color=2f74c0&logo=typescript&link=https://github.com/eshaham/israeli-bank-scrapers)](https://github.com/eshaham/israeli-bank-scrapers)  
+[eshaham/israeli-bank-scrapers](https://github.com/eshaham/israeli-bank-scrapers) Provide scrapers for all major Israeli banks and credit card companies
 
 [![Checkmarx/2ms](https://img.shields.io/static/v1?label=Go&message=Checkmarx/2ms&color=18aed6&logo=go&link=https://github.com/Checkmarx/2ms)](https://github.com/Checkmarx/2ms)
 [![Latest Release](https://img.shields.io/github/v/release/checkmarx/2ms)](https://github.com/checkmarx/2ms/releases)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![GitHub Discussions](https://img.shields.io/badge/chat-discussions-blue.svg?style=flat-square)](https://github.com/Checkmarx/2ms/discussions)  
 [Checkmarx/2ms](https://github.com/Checkmarx/2ms) Too many secrets (2MS) helps people protect their secrets on any file or on systems like CMS, chats and git.
-
 
 ## 🏭 Published
 
@@ -61,11 +64,10 @@ Overlay
 [![Nuget](https://img.shields.io/nuget/dt/DllProps.Tool?logo=nuget)](https://www.nuget.org/packages/DllProps.Tool)  
 **dll-props**- `dotnet tool` to get the properties of dll file.
 
-
 ## ⚡ Fun facts
 
-- [My first contribution](https://github.com/MicrosoftDocs/cpp-docs/pull/264#issuecomment-393606707) was the **space** char to *Microsoft Docs* 😂
- <!--
+- [My first contribution](https://github.com/MicrosoftDocs/cpp-docs/pull/264#issuecomment-393606707) was the **space** char to _Microsoft Docs_ 😂
+<!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -73,9 +75,10 @@ Overlay
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
 
 ## Achievments
+
 <p>
     <a href="https://vaunt.dev">
         <img src="https://api.vaunt.dev/v1/github/entities/baruchiro/contributions?format=svg" width="350" />
