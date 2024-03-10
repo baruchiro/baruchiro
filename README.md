@@ -49,6 +49,12 @@ Overlay
 
 ## 🏭 Published
 
+[![url-title-preview](https://img.shields.io/static/v1?label=vscode%20extension&message=baruchiro.url-title-preview&color=eff1f3&logo=visualstudioappcenter&link=https://marketplace.visualstudio.com/items?itemName=baruchiro.url-title-preview)](https://marketplace.visualstudio.com/items?itemName=baruchiro.url-title-preview)
+![GitHub License](https://img.shields.io/github/license/baruchiro/url-title-preview)
+![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/baruchiro.url-title-preview)
+![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/baruchiro.url-title-preview)  
+[url-title-preview](https://github.com/baruchiro/url-title-preview)- Hover over a URL to see its title (VSCode Extension)
+
 [![pursuit-rotor-task](https://img.shields.io/static/v1?label=web%20component&message=pursuit-rotor-task&color=E34F26&logo=html5&link=https://www.npmjs.com/package/pursuit-rotor-task&link=https://github.com/baruchiro/pursuit-rotor-task)](https://github.com/baruchiro/pursuit-rotor-task)
 [![npm](https://img.shields.io/npm/v/pursuit-rotor-task?logo=npm&label=version)](https://www.npmjs.com/package/pursuit-rotor-task)
 [![jsDelivr hits (npm)](https://img.shields.io/jsdelivr/npm/hm/pursuit-rotor-task)](https://www.jsdelivr.com/package/npm/pursuit-rotor-task)
@@ -63,6 +69,13 @@ Overlay
 [![dll-props](https://img.shields.io/static/v1?label=package&message=dll-props&color=239120&logo=c-sharp&link=https://www.nuget.org/packages/DllProps.Tool&link=https://github.com/baruchiro/dll-props)](https://github.com/baruchiro/dll-props)
 [![Nuget](https://img.shields.io/nuget/dt/DllProps.Tool?logo=nuget)](https://www.nuget.org/packages/DllProps.Tool)  
 **dll-props**- `dotnet tool` to get the properties of dll file.
+
+## 🗃️ Archived
+
+[![use-route-as-state](https://img.shields.io/static/v1?label=package&message=use-route-as-state&color=61DAFB&logo=react&link=https://www.npmjs.com/package/use-route-as-state&link=https://github.com/baruchiro/use-route-as-state)](https://github.com/baruchiro/use-route-as-state)
+[![npm](https://img.shields.io/npm/v/use-route-as-state?logo=npm&label=version)](https://www.npmjs.com/package/use-route-as-state)
+[![npm](https://img.shields.io/npm/dw/use-route-as-state?label=npm)](https://www.npmjs.com/package/use-route-as-state)  
+**use-route-as-state**- Use React Router route and query string as a component state.
 
 ## ⚡ Fun facts
 
