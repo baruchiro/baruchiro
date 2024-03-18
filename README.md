@@ -55,6 +55,12 @@ Overlay
 ![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/baruchiro.url-title-preview)  
 [url-title-preview](https://github.com/baruchiro/url-title-preview)- Hover over a URL to see its title (VSCode Extension)
 
+[![gh-local-changes](https://img.shields.io/static/v1?label=gh%20cli%20extension&message=baruchiro/gh-local-changes&color=eff1f3&logo=github&link=https://github.com/baruchiro/gh-local-changes)](https://github.com/baruchiro/gh-local-changes)
+![GitHub License](https://img.shields.io/github/license/baruchiro/gh-local-changes)
+![GitHub Release](https://img.shields.io/github/v/release/baruchiro/gh-local-changes)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/baruchiro/gh-local-changes/total)  
+[gh-local-changes](https://github.com/baruchiro/gh-local-changes)- Scan a folder to find git repos with unpushed branches and/or changes.
+
 [![pursuit-rotor-task](https://img.shields.io/static/v1?label=web%20component&message=pursuit-rotor-task&color=E34F26&logo=html5&link=https://www.npmjs.com/package/pursuit-rotor-task&link=https://github.com/baruchiro/pursuit-rotor-task)](https://github.com/baruchiro/pursuit-rotor-task)
 [![npm](https://img.shields.io/npm/v/pursuit-rotor-task?logo=npm&label=version)](https://www.npmjs.com/package/pursuit-rotor-task)
 [![jsDelivr hits (npm)](https://img.shields.io/jsdelivr/npm/hm/pursuit-rotor-task)](https://www.jsdelivr.com/package/npm/pursuit-rotor-task)
