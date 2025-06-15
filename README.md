@@ -49,6 +49,19 @@ Overlay
 
 ## 🏭 Published
 
+[![baruchiro/ActualBudgetMCP](https://img.shields.io/static/v1?label=Server&message=baruchiro/ActualBudgetMCP&color=4FC08D&logo=vue.js&link=https://github.com/baruchiro/actual-mcp)](https://github.com/baruchiro/actual-mcp)  
+[baruchiro/ActualBudgetMCP](https://github.com/baruchiro/actual-mcp) - A server that interfaces with the Actual Budget API to manage budgets, payments, and expenses.
+
+[![baruchiro/MultiTextCompare](https://img.shields.io/static/v1?label=Tool&message=baruchiro/MultiTextCompare&color=5ed3f3&logo=react&link=https://github.com/baruchiro/frosted-text-alchemy)](https://github.com/baruchiro/frosted-text-alchemy)  
+[baruchiro/MultiTextCompare](https://github.com/baruchiro/frosted-text-alchemy) - Online tool for comparing multiple texts.
+
+[![baruchiro/Paperless-ngxMCP](https://img.shields.io/static/v1?label=Server&message=baruchiro/Paperless-ngxMCP&color=5ed3f3&logo=react&link=https://github.com/baruchiro/paperless-mcp)](https://github.com/baruchiro/paperless-mcp)  
+[baruchiro/Paperless-ngxMCP](https://github.com/baruchiro/paperless-mcp) - Server interfacing with Paperless-ngx API for document management.
+
+[![baruchiro/PRStuck](https://img.shields.io/static/v1?label=CLI&message=baruchiro/PRStuck&color=5ed3f3&logo=react&link=https://github.com/baruchiro/gh-prstuck)](https://github.com/baruchiro/gh-prstuck)  
+[baruchiro/PRStuck](https://github.com/baruchiro/gh-prstuck) - CLI tool for managing dependencies between Pull Requests on GitHub.
+
+
 [![url-title-preview](https://img.shields.io/static/v1?label=vscode%20extension&message=baruchiro.url-title-preview&color=eff1f3&logo=visualstudioappcenter&link=https://marketplace.visualstudio.com/items?itemName=baruchiro.url-title-preview)](https://marketplace.visualstudio.com/items?itemName=baruchiro.url-title-preview)
 ![GitHub License](https://img.shields.io/github/license/baruchiro/url-title-preview)
 ![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/baruchiro.url-title-preview)
