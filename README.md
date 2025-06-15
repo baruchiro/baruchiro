@@ -76,6 +76,22 @@ Overlay
 [![Nuget](https://img.shields.io/nuget/dt/DllProps.Tool?logo=nuget)](https://www.nuget.org/packages/DllProps.Tool)  
 **dll-props**- `dotnet tool` to get the properties of dll file.
 
+
+[![baruchiro/ActualBudgetMCP](https://img.shields.io/static/v1?label=Server&message=baruchiro/ActualBudgetMCP&color=4FC08D&logo=vue.js&link=https://github.com/baruchiro/actual-mcp)](https://github.com/baruchiro/actual-mcp)  
+[baruchiro/ActualBudgetMCP](https://github.com/baruchiro/actual-mcp) - A server that interfaces with the Actual Budget API to manage budgets, payments, and expenses.
+
+[![eshaham/israeli-bank-scrapers](https://img.shields.io/static/v1?label=OpenSource&message=eshaham/israeli-bank-scrapers&color=4FC08D&logo=vue.js&link=https://github.com/eshaham/israeli-bank-scrapers)](https://github.com/eshaham/israeli-bank-scrapers)  
+[eshaham/israeli-bank-scrapers](https://github.com/eshaham/israeli-bank-scrapers) - Library providing access to information from Israeli banks and credit card companies.
+
+[![baruchiro/MultiTextCompare](https://img.shields.io/static/v1?label=Tool&message=baruchiro/MultiTextCompare&color=5ed3f3&logo=react&link=https://github.com/baruchiro/frosted-text-alchemy)](https://github.com/baruchiro/frosted-text-alchemy)  
+[baruchiro/MultiTextCompare](https://github.com/baruchiro/frosted-text-alchemy) - Online tool for comparing multiple texts.
+
+[![baruchiro/Paperless-ngxMCP](https://img.shields.io/static/v1?label=Server&message=baruchiro/Paperless-ngxMCP&color=5ed3f3&logo=react&link=https://github.com/baruchiro/paperless-mcp)](https://github.com/baruchiro/paperless-mcp)  
+[baruchiro/Paperless-ngxMCP](https://github.com/baruchiro/paperless-mcp) - Server interfacing with Paperless-ngx API for document management.
+
+[![baruchiro/PRStuck](https://img.shields.io/static/v1?label=CLI&message=baruchiro/PRStuck&color=5ed3f3&logo=react&link=https://github.com/baruchiro/gh-prstuck)](https://github.com/baruchiro/gh-prstuck)  
+[baruchiro/PRStuck](https://github.com/baruchiro/gh-prstuck) - CLI tool for managing dependencies between Pull Requests on GitHub.
+
 ## 🗃️ Archived
 
 [![use-route-as-state](https://img.shields.io/static/v1?label=package&message=use-route-as-state&color=61DAFB&logo=react&link=https://www.npmjs.com/package/use-route-as-state&link=https://github.com/baruchiro/use-route-as-state)](https://github.com/baruchiro/use-route-as-state)
