@@ -47,6 +47,15 @@ Overlay
 [![GitHub Discussions](https://img.shields.io/badge/chat-discussions-blue.svg?style=flat-square)](https://github.com/Checkmarx/2ms/discussions)  
 [Checkmarx/2ms](https://github.com/Checkmarx/2ms) Too many secrets (2MS) helps people protect their secrets on any file or on systems like CMS, chats and git.
 
+[![baruchiro/actual-mcp](https://img.shields.io/static/v1?label=MCP&message=baruchiro/actual-mcp&color=2f74c0&logo=typescript&link=https://github.com/baruchiro/actual-mcp)](https://github.com/baruchiro/actual-mcp)  
+[baruchiro/actual-mcp](https://github.com/baruchiro/actual-mcp) MCP server that interfaces with the Actual Budget API to manage budgets, payments, and expenses.
+
+[![baruchiro/paperless-mcp](https://img.shields.io/static/v1?label=MCP&message=baruchiro/paperless-mcp&color=2f74c0&logo=typescript&link=https://github.com/baruchiro/paperless-mcp)](https://github.com/baruchiro/paperless-mcp)  
+[baruchiro/paperless-mcp](https://github.com/baruchiro/paperless-mcp) MCP server interfacing with Paperless-ngx API for document management.
+
+[![baruchiro/gh-prstuck](https://img.shields.io/static/v1?label=CLI&message=baruchiro/gh-prstuck&color=2f74c0&logo=typescript&link=https://github.com/baruchiro/gh-prstuck)](https://github.com/baruchiro/gh-prstuck)  
+[baruchiro/gh-prstuck](https://github.com/baruchiro/gh-prstuck) CLI tool for managing dependencies between Pull Requests on GitHub.
+
 ## 🏭 Published
 
 [![url-title-preview](https://img.shields.io/static/v1?label=vscode%20extension&message=baruchiro.url-title-preview&color=eff1f3&logo=visualstudioappcenter&link=https://marketplace.visualstudio.com/items?itemName=baruchiro.url-title-preview)](https://marketplace.visualstudio.com/items?itemName=baruchiro.url-title-preview)
