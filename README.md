@@ -10,6 +10,14 @@ Feel free to check out my work and [contact me](https://cal.com/baruchiro/30m). 
 
 ## 🔭 Currently working on
 
+[![baruchiro/actual-mcp](https://img.shields.io/static/v1?label=MCP&message=baruchiro/actual-mcp&color=2f74c0&logo=typescript&link=https://github.com/baruchiro/actual-mcp)](https://github.com/baruchiro/actual-mcp)  
+[baruchiro/actual-mcp](https://github.com/baruchiro/actual-mcp) MCP server that interfaces with the Actual Budget API to manage budgets, payments, and expenses.
+
+[![baruchiro/paperless-mcp](https://img.shields.io/static/v1?label=MCP&message=baruchiro/paperless-mcp&color=2f74c0&logo=typescript&link=https://github.com/baruchiro/paperless-mcp)](https://github.com/baruchiro/paperless-mcp)  
+[baruchiro/paperless-mcp](https://github.com/baruchiro/paperless-mcp) MCP server interfacing with Paperless-ngx API for document management.
+
+## 🏭 Published
+
 [![os-scar/overlay](https://img.shields.io/static/v1?label=BrowserExtension&message=os-scar/overlay&color=41B883&logo=vue.js&link=https://github.com/os-scar/overlay)](https://github.com/os-scar/overlay)
 [![Badge Commits]][Commit Rate]
 [![Badge Issues]][Issues]
@@ -47,22 +55,14 @@ Overlay
 [![GitHub Discussions](https://img.shields.io/badge/chat-discussions-blue.svg?style=flat-square)](https://github.com/Checkmarx/2ms/discussions)  
 [Checkmarx/2ms](https://github.com/Checkmarx/2ms) Too many secrets (2MS) helps people protect their secrets on any file or on systems like CMS, chats and git.
 
-[![baruchiro/actual-mcp](https://img.shields.io/static/v1?label=MCP&message=baruchiro/actual-mcp&color=2f74c0&logo=typescript&link=https://github.com/baruchiro/actual-mcp)](https://github.com/baruchiro/actual-mcp)  
-[baruchiro/actual-mcp](https://github.com/baruchiro/actual-mcp) MCP server that interfaces with the Actual Budget API to manage budgets, payments, and expenses.
-
-[![baruchiro/paperless-mcp](https://img.shields.io/static/v1?label=MCP&message=baruchiro/paperless-mcp&color=2f74c0&logo=typescript&link=https://github.com/baruchiro/paperless-mcp)](https://github.com/baruchiro/paperless-mcp)  
-[baruchiro/paperless-mcp](https://github.com/baruchiro/paperless-mcp) MCP server interfacing with Paperless-ngx API for document management.
-
-[![baruchiro/gh-prstuck](https://img.shields.io/static/v1?label=CLI&message=baruchiro/gh-prstuck&color=2f74c0&logo=typescript&link=https://github.com/baruchiro/gh-prstuck)](https://github.com/baruchiro/gh-prstuck)  
-[baruchiro/gh-prstuck](https://github.com/baruchiro/gh-prstuck) CLI tool for managing dependencies between Pull Requests on GitHub.
-
-## 🏭 Published
-
 [![url-title-preview](https://img.shields.io/static/v1?label=vscode%20extension&message=baruchiro.url-title-preview&color=eff1f3&logo=visualstudioappcenter&link=https://marketplace.visualstudio.com/items?itemName=baruchiro.url-title-preview)](https://marketplace.visualstudio.com/items?itemName=baruchiro.url-title-preview)
 ![GitHub License](https://img.shields.io/github/license/baruchiro/url-title-preview)
 ![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/baruchiro.url-title-preview)
 ![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/baruchiro.url-title-preview)  
 [url-title-preview](https://github.com/baruchiro/url-title-preview)- Hover over a URL to see its title (VSCode Extension)
+
+[![baruchiro/gh-prstuck](https://img.shields.io/static/v1?label=CLI&message=baruchiro/gh-prstuck&color=2f74c0&logo=typescript&link=https://github.com/baruchiro/gh-prstuck)](https://github.com/baruchiro/gh-prstuck)  
+[baruchiro/gh-prstuck](https://github.com/baruchiro/gh-prstuck) CLI tool for managing dependencies between Pull Requests on GitHub.
 
 [![gh-local-changes](https://img.shields.io/static/v1?label=gh%20cli%20extension&message=baruchiro/gh-local-changes&color=eff1f3&logo=github&link=https://github.com/baruchiro/gh-local-changes)](https://github.com/baruchiro/gh-local-changes)
 ![GitHub License](https://img.shields.io/github/license/baruchiro/gh-local-changes)
@@ -75,15 +75,15 @@ Overlay
 [![jsDelivr hits (npm)](https://img.shields.io/jsdelivr/npm/hm/pursuit-rotor-task)](https://www.jsdelivr.com/package/npm/pursuit-rotor-task)
 [![npm](https://img.shields.io/npm/dm/pursuit-rotor-task?label=npm)](https://www.npmjs.com/package/pursuit-rotor-task)
 [![twitter](https://img.shields.io/twitter/url?label=pursuit_rotor_task&style=social&url=https%3A%2F%2Ftwitter.com%2Fhashtag%2Fpursuit_rotor_task)](https://twitter.com/hashtag/pursuit_rotor_task)  
-**pursuit-rotor-task**- Web Component for Pursuit Rotor Task to embed in web application.
+[pursuit-rotor-task](https://github.com/baruchiro/pursuit-rotor-task) Web Component for Pursuit Rotor Task to embed in web application.
 
 [![NetworkConnection](https://img.shields.io/static/v1?label=package&message=NetworkConnection&color=239120&logo=c-sharp&link=https://www.nuget.org/packages/NetworkConnection/&link=https://github.com/baruchiro/NetworkConnection)](https://github.com/baruchiro/NetworkConnection)
 [![Nuget](https://img.shields.io/nuget/dt/NetworkConnection)](https://www.nuget.org/packages/NetworkConnection/)  
-**NetworkConnection**- Represents a network connection along with authentication to a network share.
+[NetworkConnection](https://github.com/baruchiro/NetworkConnection) Represents a network connection along with authentication to a network share.
 
 [![dll-props](https://img.shields.io/static/v1?label=package&message=dll-props&color=239120&logo=c-sharp&link=https://www.nuget.org/packages/DllProps.Tool&link=https://github.com/baruchiro/dll-props)](https://github.com/baruchiro/dll-props)
 [![Nuget](https://img.shields.io/nuget/dt/DllProps.Tool?logo=nuget)](https://www.nuget.org/packages/DllProps.Tool)  
-**dll-props**- `dotnet tool` to get the properties of dll file.
+[dll-props](https://github.com/baruchiro/dll-props) `dotnet tool` to get the properties of dll file.
 
 ## 🗃️ Archived
 
