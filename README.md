@@ -18,6 +18,15 @@ Feel free to check out my work and [contact me](https://cal.com/baruchiro/30m). 
 
 ## 🏭 Published
 
+[![PR Review Loop](https://img.shields.io/static/v1?label=vscode%20extension&message=baruchiro.pr-review-loop&color=eff1f3&logo=visualstudioappcenter&link=https://marketplace.visualstudio.com/items?itemName=baruchiro.pr-review-loop)](https://marketplace.visualstudio.com/items?itemName=baruchiro.pr-review-loop)
+![GitHub License](https://img.shields.io/github/license/baruchiro/pr-status-vscode)
+![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/baruchiro.pr-review-loop)
+![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/baruchiro.pr-review-loop)
+
+[PR Review Loop](https://github.com/baruchiro/pr-status-vscode)- A VS Code extension paired with the [pr-review-loop Claude Code plugin](https://github.com/baruchiro/skills). The plugin handles PR review threads and writes `pr-status.json`; the sidebar shows the next PR that needs you, every PR in review order, and whose turn it is (you / Claude / CI / CodeRabbit), with auto refresh.
+
+<img src="https://raw.githubusercontent.com/baruchiro/pr-status-vscode/main/media/screenshot.png" alt="PR Review Loop sidebar showing the next PR that needs you and each PR's review status" width="420">
+
 [![os-scar/overlay](https://img.shields.io/static/v1?label=BrowserExtension&message=os-scar/overlay&color=41B883&logo=vue.js&link=https://github.com/os-scar/overlay)](https://github.com/os-scar/overlay)
 [![Badge Commits]][Commit Rate]
 [![Badge Issues]][Issues]
