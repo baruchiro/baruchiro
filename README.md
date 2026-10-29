@@ -18,6 +18,12 @@ Feel free to check out my work and [contact me](https://cal.com/baruchiro/30m). 
 
 ## 🏭 Published
 
+### [PR Review Loop](https://marketplace.visualstudio.com/items?itemName=baruchiro.pr-review-loop)
+
+I built PR Review Loop, a VS Code extension that shows my pull requests in review order, the next PR that needs me, and whose turn it is: mine, Claude, CI, or CodeRabbit. It pairs with my [pr-review-loop Claude Code plugin](https://github.com/baruchiro/skills/tree/master/pr-review-loop), which handles review threads and writes the status file the sidebar reads.
+
+[Source code](https://github.com/baruchiro/pr-status-vscode)
+
 [![os-scar/overlay](https://img.shields.io/static/v1?label=BrowserExtension&message=os-scar/overlay&color=41B883&logo=vue.js&link=https://github.com/os-scar/overlay)](https://github.com/os-scar/overlay)
 [![Badge Commits]][Commit Rate]
 [![Badge Issues]][Issues]
