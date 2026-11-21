@@ -1,22 +1,10 @@
 ### Hi there 👋
 
-I’m an Open Source advocate and contributor. I love to explore new technologies and collaborate with other developers on exciting projects.  
-I’m also a mentor at [Ma’akaf (מעקף)](https://discord.gg/Fq7WstPR), a community that helps people join the Open Source world.  
-Feel free to check out my work and [contact me](https://cal.com/baruchiro/30m). 😊
+I’m a software developer, open-source contributor and mentor at [Ma’akaf (מעקף)](https://discord.gg/Fq7WstPR). I build developer tools and automations, and write about them [in Hebrew](https://baruchiro.com/).
 
-[![blog](https://img.shields.io/static/v1?label=Gridsome&message=BcsStudent&color=4FC08D&logo=vue.js&link=https://bscstudent.netlify.app/&link=https://github.com/baruchiro/BcsStudent)](https://github.com/baruchiro/BcsStudent)
-[![Netlify](https://img.shields.io/netlify/ba56d2ec-b5ce-4d2d-a606-90fbcd1dcf3c)](https://bscstudent.netlify.app/)  
-[**BcsStudent**](https://github.com/baruchiro/BcsStudent)- My blog, mainly about programming, in Hebrew.
+[My projects](https://baruchiro.com/projects) · [Contact me](https://cal.com/baruchiro/30m)
 
-## 🔭 Currently working on
-
-[![baruchiro/actual-mcp](https://img.shields.io/static/v1?label=MCP&message=baruchiro/actual-mcp&color=2f74c0&logo=typescript&link=https://github.com/baruchiro/actual-mcp)](https://github.com/baruchiro/actual-mcp)  
-[baruchiro/actual-mcp](https://github.com/baruchiro/actual-mcp) MCP server that interfaces with the Actual Budget API to manage budgets, payments, and expenses.
-
-[![baruchiro/paperless-mcp](https://img.shields.io/static/v1?label=MCP&message=baruchiro/paperless-mcp&color=2f74c0&logo=typescript&link=https://github.com/baruchiro/paperless-mcp)](https://github.com/baruchiro/paperless-mcp)  
-[baruchiro/paperless-mcp](https://github.com/baruchiro/paperless-mcp) MCP server interfacing with Paperless-ngx API for document management.
-
-## 🏭 Published
+## Developer tools
 
 [![PR Review Loop](https://img.shields.io/static/v1?label=vscode%20extension&message=baruchiro.pr-review-loop&color=eff1f3&logo=visualstudioappcenter&link=https://marketplace.visualstudio.com/items?itemName=baruchiro.pr-review-loop)](https://marketplace.visualstudio.com/items?itemName=baruchiro.pr-review-loop)
 ![GitHub License](https://img.shields.io/github/license/baruchiro/pr-status-vscode)
@@ -27,94 +15,65 @@ Feel free to check out my work and [contact me](https://cal.com/baruchiro/30m). 
 
 <img src="https://raw.githubusercontent.com/baruchiro/pr-status-vscode/main/media/screenshot.png" alt="PR Review Loop sidebar showing the next PR that needs you and each PR's review status" width="420">
 
-[![os-scar/overlay](https://img.shields.io/static/v1?label=BrowserExtension&message=os-scar/overlay&color=41B883&logo=vue.js&link=https://github.com/os-scar/overlay)](https://github.com/os-scar/overlay)
-[![Badge Commits]][Commit Rate]
-[![Badge Issues]][Issues]
-[![Badge License]][License]
-[![Badge Version]][Releases]
-[![Badge Mozilla]][Mozilla]
-[![Badge Chrome]][Chrome]
-[![Badge Discord]][Discord]
+| Project | What it does | Availability |
+| --- | --- | --- |
+| [URL Title Preview](https://github.com/baruchiro/url-title-preview) | Shows a web page’s title when hovering over its URL in VS Code. | [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=baruchiro.url-title-preview) |
+| [PRStuck](https://github.com/baruchiro/gh-prstuck) | CLI for tracking dependencies between GitHub pull requests. | Source and installation instructions |
+| [gh-local-changes](https://github.com/baruchiro/gh-local-changes) | Finds local Git repositories with unpushed branches or uncommitted changes. | GitHub CLI extension |
+| [JMESPath query helper](https://github.com/baruchiro/jmespath-skill) | Skill, syntax reference and script for building and testing queries against JSON. | Public source |
+| [Claude Code skills](https://github.com/baruchiro/skills) | Personal skills and plugins, including the PR Review Loop companion and waiting-light, which signals through Home Assistant when a session needs attention. | Source marketplace and installation instructions |
+| [Buzz Hebrew RTL](https://github.com/baruchiro/buzz-hebrew-rtl) | Local Buzz desktop plugin for Hebrew and Arabic message layout. | Source and manual installation |
 
-<h1 align="center">
-<sub>
-<img src="https://raw.githubusercontent.com/os-scar/overlay/2fbb6f670a25fa3af05f5c9e9097b2e6416bb88a/icons/icon_48.png" height="38" width="38">
-</sub>
-Overlay
-</h1>
+The same review-status file can also be viewed through the [Herdr mod](https://github.com/baruchiro/herdr-pr-review-loop).
 
-<p align="center">
-<a href="https://addons.mozilla.org/addon/overlay/"><img src="https://user-images.githubusercontent.com/585534/107280546-7b9b2a00-6a26-11eb-8f9f-f95932f4bfec.png" alt="Get Overlay for Firefox"></a>
-<a href="https://chrome.google.com/webstore/detail/overlay/fahpefingaaldhifdbnlipfjniabkiho"><img src="https://user-images.githubusercontent.com/585534/107280622-91a8ea80-6a26-11eb-8d07-77c548b28665.png" alt="Get Overlay for Chromium"></a>
-<!-- <a href="https://microsoftedge.microsoft.com/addons/detail/overlay/xxxxxxxxxxxxxxxxxx"><img src="https://user-images.githubusercontent.com/585534/107280673-a5ece780-6a26-11eb-9cc7-9fa9f9f81180.png" alt="Get Overlay for Microsoft Edge"></a>
-<a href="https://addons.opera.com/extensions/details/overlay/"><img src="https://user-images.githubusercontent.com/585534/107280692-ac7b5f00-6a26-11eb-85c7-088926504452.png" alt="Get Overlay for Opera"></a> -->
-</p>
+## Automation and integrations
 
-[os-scar/overlay](https://github.com/os-scar/overlay) Overlay is a browser extension helping developers evaluate open-source packages before picking them.
+| Project | What it does |
+| --- | --- |
+| [Paperless-ngx nodes for n8n](https://github.com/baruchiro/n8n-nodes-paperless-ngx) | Community nodes for documents, tags and document details. Source and development instructions available. |
+| [Location Reminders](https://github.com/baruchiro/lovelace-location-reminders) | Experimental Home Assistant integration and card for location-based reminders. |
 
-[![brafdlog/caspion](https://img.shields.io/static/v1?label=Electron&message=brafdlog/caspion&color=5ed3f3&logo=react&link=https://github.com/brafdlog/caspion)](https://github.com/brafdlog/caspion)  
-[brafdlog/caspion](https://github.com/brafdlog/caspion) Automated budget tracking from Israeli financial institutions.
+These repositories include my work on existing open-source projects; they are not all projects I started.
 
-[![eshaham/israeli-bank-scrapers](https://img.shields.io/static/v1?label=TypeScript&message=eshaham/israeli-bank-scrapers&color=2f74c0&logo=typescript&link=https://github.com/eshaham/israeli-bank-scrapers)](https://github.com/eshaham/israeli-bank-scrapers)  
-[eshaham/israeli-bank-scrapers](https://github.com/eshaham/israeli-bank-scrapers) Provide scrapers for all major Israeli banks and credit card companies
+| Project | What it does |
+| --- | --- |
+| [Actual Budget MCP](https://github.com/baruchiro/actual-mcp) | MCP server connecting AI tools to Actual Budget. |
+| [Paperless-ngx MCP](https://github.com/baruchiro/paperless-mcp) | MCP server for working with Paperless-ngx documents, tags and correspondents. |
 
-[![Checkmarx/2ms](https://img.shields.io/static/v1?label=Go&message=Checkmarx/2ms&color=18aed6&logo=go&link=https://github.com/Checkmarx/2ms)](https://github.com/Checkmarx/2ms)
-[![Latest Release](https://img.shields.io/github/v/release/checkmarx/2ms)](https://github.com/checkmarx/2ms/releases)
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![GitHub Discussions](https://img.shields.io/badge/chat-discussions-blue.svg?style=flat-square)](https://github.com/Checkmarx/2ms/discussions)  
-[Checkmarx/2ms](https://github.com/Checkmarx/2ms) Too many secrets (2MS) helps people protect their secrets on any file or on systems like CMS, chats and git.
+## Open-source contributions
 
-[![url-title-preview](https://img.shields.io/static/v1?label=vscode%20extension&message=baruchiro.url-title-preview&color=eff1f3&logo=visualstudioappcenter&link=https://marketplace.visualstudio.com/items?itemName=baruchiro.url-title-preview)](https://marketplace.visualstudio.com/items?itemName=baruchiro.url-title-preview)
-![GitHub License](https://img.shields.io/github/license/baruchiro/url-title-preview)
-![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/baruchiro.url-title-preview)
-![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/baruchiro.url-title-preview)  
-[url-title-preview](https://github.com/baruchiro/url-title-preview)- Hover over a URL to see its title (VSCode Extension)
+| Project | Focus |
+| --- | --- |
+| [Overlay](https://github.com/os-scar/overlay) | Browser extension for evaluating open-source packages. |
+| [Caspion / כספיון](https://github.com/brafdlog/caspion) | Importing Israeli bank and credit-card transactions for budget tracking. |
+| [Israeli Bank Scrapers](https://github.com/eshaham/israeli-bank-scrapers) | Library for retrieving data from supported Israeli banks and credit-card companies. |
+| [2MS](https://github.com/Checkmarx/2ms) | Scanning files and connected systems for exposed secrets. |
 
-[![baruchiro/gh-prstuck](https://img.shields.io/static/v1?label=CLI&message=baruchiro/gh-prstuck&color=2f74c0&logo=typescript&link=https://github.com/baruchiro/gh-prstuck)](https://github.com/baruchiro/gh-prstuck)  
-[baruchiro/gh-prstuck](https://github.com/baruchiro/gh-prstuck) CLI tool for managing dependencies between Pull Requests on GitHub.
+## Public experiments
 
-[![gh-local-changes](https://img.shields.io/static/v1?label=gh%20cli%20extension&message=baruchiro/gh-local-changes&color=eff1f3&logo=github&link=https://github.com/baruchiro/gh-local-changes)](https://github.com/baruchiro/gh-local-changes)
-![GitHub License](https://img.shields.io/github/license/baruchiro/gh-local-changes)
-![GitHub Release](https://img.shields.io/github/v/release/baruchiro/gh-local-changes)
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/baruchiro/gh-local-changes/total)  
-[gh-local-changes](https://github.com/baruchiro/gh-local-changes)- Scan a folder to find git repos with unpushed branches and/or changes.
+| Project | Current scope |
+| --- | --- |
+| [History Map](https://github.com/baruchiro/history-map) | Historical map and reviewed event-list contributions. [Try the public site](https://baruchiro.github.io/history-map/). |
+| [Timelines Map](https://github.com/baruchiro/timelines-maps) | Another public map-and-timeline experiment, with a Hebrew UI and local run instructions. |
+| [agent-board](https://github.com/baruchiro/agent-board) | Early self-hosted board receiving lifecycle reports from coding agents. Ingest and the live board are implemented; agent spawning and answering permission prompts are not. |
 
-[![pursuit-rotor-task](https://img.shields.io/static/v1?label=web%20component&message=pursuit-rotor-task&color=E34F26&logo=html5&link=https://www.npmjs.com/package/pursuit-rotor-task&link=https://github.com/baruchiro/pursuit-rotor-task)](https://github.com/baruchiro/pursuit-rotor-task)
-[![npm](https://img.shields.io/npm/v/pursuit-rotor-task?logo=npm&label=version)](https://www.npmjs.com/package/pursuit-rotor-task)
-[![jsDelivr hits (npm)](https://img.shields.io/jsdelivr/npm/hm/pursuit-rotor-task)](https://www.jsdelivr.com/package/npm/pursuit-rotor-task)
-[![npm](https://img.shields.io/npm/dm/pursuit-rotor-task?label=npm)](https://www.npmjs.com/package/pursuit-rotor-task)
-[![twitter](https://img.shields.io/twitter/url?label=pursuit_rotor_task&style=social&url=https%3A%2F%2Ftwitter.com%2Fhashtag%2Fpursuit_rotor_task)](https://twitter.com/hashtag/pursuit_rotor_task)  
-[pursuit-rotor-task](https://github.com/baruchiro/pursuit-rotor-task) Web Component for Pursuit Rotor Task to embed in web application.
+## Earlier published tools
 
-[![NetworkConnection](https://img.shields.io/static/v1?label=package&message=NetworkConnection&color=239120&logo=c-sharp&link=https://www.nuget.org/packages/NetworkConnection/&link=https://github.com/baruchiro/NetworkConnection)](https://github.com/baruchiro/NetworkConnection)
-[![Nuget](https://img.shields.io/nuget/dt/NetworkConnection)](https://www.nuget.org/packages/NetworkConnection/)  
-[NetworkConnection](https://github.com/baruchiro/NetworkConnection) Represents a network connection along with authentication to a network share.
+| Project | What it does | Package |
+| --- | --- | --- |
+| [Pursuit Rotor Task](https://github.com/baruchiro/pursuit-rotor-task) | Web component for embedding a pursuit-rotor task in a web application. | [npm](https://www.npmjs.com/package/pursuit-rotor-task) |
+| [NetworkConnection](https://github.com/baruchiro/NetworkConnection) | .NET library for an authenticated connection to a network share. | [NuGet](https://www.nuget.org/packages/NetworkConnection/) |
+| [dll-props](https://github.com/baruchiro/dll-props) | Archived .NET tool for reading DLL properties. | [NuGet](https://www.nuget.org/packages/DllProps.Tool) |
 
-[![dll-props](https://img.shields.io/static/v1?label=package&message=dll-props&color=239120&logo=c-sharp&link=https://www.nuget.org/packages/DllProps.Tool&link=https://github.com/baruchiro/dll-props)](https://github.com/baruchiro/dll-props)
-[![Nuget](https://img.shields.io/nuget/dt/DllProps.Tool?logo=nuget)](https://www.nuget.org/packages/DllProps.Tool)  
-[dll-props](https://github.com/baruchiro/dll-props) `dotnet tool` to get the properties of dll file.
+## Archived
 
-## 🗃️ Archived
-
-[![use-route-as-state](https://img.shields.io/static/v1?label=package&message=use-route-as-state&color=61DAFB&logo=react&link=https://www.npmjs.com/package/use-route-as-state&link=https://github.com/baruchiro/use-route-as-state)](https://github.com/baruchiro/use-route-as-state)
-[![npm](https://img.shields.io/npm/v/use-route-as-state?logo=npm&label=version)](https://www.npmjs.com/package/use-route-as-state)
-[![npm](https://img.shields.io/npm/dw/use-route-as-state?label=npm)](https://www.npmjs.com/package/use-route-as-state)  
-**use-route-as-state**- Use React Router route and query string as a component state.
+[use-route-as-state](https://github.com/baruchiro/use-route-as-state) uses a React Router route and query string as component state. [npm package](https://www.npmjs.com/package/use-route-as-state).
 
 ## ⚡ Fun facts
 
 - [My first contribution](https://github.com/MicrosoftDocs/cpp-docs/pull/264#issuecomment-393606707) was the **space** char to _Microsoft Docs_ 😂
-<!--
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
 
-## Achievments
+## Achievements
 
 <p>
     <a href="https://vaunt.dev">
@@ -122,24 +81,3 @@ Overlay
         <img src="https://api.vaunt.dev/v1/github/entities/baruchiro/achievements?format=svg&limit=3" width="350" />
     </a>
 </p>
-
-<!---------------------------------[ Links ]-------------------------------->
-
-[Commit Rate]: https://github.com/os-scar/overlay/commits/master
-[Issues]: https://github.com/os-scar/overlay/issues
-[Discussions]: https://github.com/os-scar/overlay/discussions
-[License]: https://github.com/os-scar/overlay/blob/master/LICENSE.txt
-[Releases]: https://github.com/os-scar/overlay/releases
-[Mozilla]: https://addons.mozilla.org/addon/overlay/
-[Chrome]: https://chrome.google.com/webstore/detail/overlay/fahpefingaaldhifdbnlipfjniabkiho
-[Discord]: https://discord.com/channels/1072162311369936946/1072163343059652628
-
-<!----------------------------------[ Badges ]--------------------------------->
-
-[Badge Commits]: https://img.shields.io/github/commit-activity/m/os-scar/overlay?label=Commits
-[Badge Mozilla]: https://img.shields.io/amo/users/overlay?label=Firefox
-[Badge License]: https://img.shields.io/badge/License-MIT-blue.svg
-[Badge Chrome]: https://img.shields.io/chrome-web-store/users/fahpefingaaldhifdbnlipfjniabkiho?label=Chrome
-[Badge Issues]: https://img.shields.io/github/issues/os-scar/overlay
-[Badge Version]: https://img.shields.io/github/v/release/os-scar/overlay
-[Badge Discord]: https://img.shields.io/discord/1072162311369936946
